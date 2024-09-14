@@ -107,15 +107,8 @@ Replace {user_id} with the ID of the user you want to send the welcome email to.
 
 ## API Documentation
 
-API documentation is available at [insert link or path to your API documentation].
-
-## Contributing
-
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within this project, please send an e-mail via [insert contact method]. All security vulnerabilities will be promptly addressed.
+API documentation is available at:
+- [View Postman API Documentation](https://documenter.getpostman.com/view/17491289/2sAXqngk23)
 
 ## License
 
